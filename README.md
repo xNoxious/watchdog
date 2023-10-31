@@ -19,7 +19,8 @@ const FILE_NAME = "FILE_NAME";
 
 5. run <code>node index.js</code>
 
-I have made the script as lightweight as possible so didn't want to include things like Node.js for example where I could have made the script look much cleaner.
-If an address has hundreds of transactions it might take some time to run the script but generally I haven't had problems fetching data quickly.
-Be aware that the provided key is a free one so there is some rate-limiting I assume.
-I have attached a sample .csv file to showcase what the output of running the script looks like.
+Some clarifications:
+- I have made the script as lightweight as possible so didn't want to include things like Node.js for example where I could have made the script look much cleaner.
+- If an address has hundreds of transactions it might take some time to run the script but generally I haven't had problems fetching data quickly.
+- Be aware that the provided key is a free one so there is some rate-limiting I assume.
+- I have attached a sample .csv file to showcase what the output of running the script looks like.
