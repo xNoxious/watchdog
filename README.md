@@ -8,16 +8,16 @@ Written in JavaScript.
 To run:
 
 1. Clone the project
-3. Run <code>npm install</code>
+2. Run <code>npm install</code>
    
-4. Replace the 3 variables at the top with ones of your liking:
+3. Replace the 3 variables at the top with ones of your liking:
 ```
 const API_KEY = "REPLACE_WITH_KEY"; // Replace this with the API key I have provided via email
 const ADDRESS = "ETHEREUM_ADDRESS";
 const FILE_NAME = "FILE_NAME";
 ```
 
-5. run <code>node index.js</code>
+4. run <code>node index.js</code>
 
 Some clarifications:
 - I have made the script as lightweight as possible so didn't want to include things like Node.js for example where I could have made the script look much cleaner.
