@@ -10,7 +10,7 @@ To run:
 1. Clone the project
 3. Run <code>npm install</code>
    
-5. Replace the 3 variables at the top with ones of your liking:
+4. Replace the 3 variables at the top with ones of your liking:
 ```
 const API_KEY = "REPLACE_WITH_KEY"; // Replace this with the API key I have provided via email
 const ADDRESS = "ETHEREUM_ADDRESS";
